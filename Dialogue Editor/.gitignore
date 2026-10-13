@@ -1,0 +1,8 @@
+# 编译校验产物：由 tools/compile-check.ps1 生成，随时可重建
+.compile-check/
+
+# 调试草稿（干跑脚本、单测工程）
+.scratch/
+
+# 备份：工具保存前自动拷的资产副本，是"用户数据"，会随使用增长、内容每次都不一样
+DialogueBackups/
