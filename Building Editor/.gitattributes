@@ -1,0 +1,2 @@
+# 工具源码统一用 LF（Windows 上克隆出来也不会变成 CRLF）
+* text=auto eol=lf
