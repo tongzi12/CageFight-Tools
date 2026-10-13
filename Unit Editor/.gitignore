@@ -1,0 +1,9 @@
+# 编译校验产物：由 tools/compile-check.ps1 生成，随时可重建
+.compile-check/
+
+# 调试草稿
+.scratch/
+
+# 备份：是"用户数据"（工具运行时自动生成的资产副本），不是源码，
+# 而且会随使用增长、内容每次都不一样 —— 不进版本库
+UnitBackups/
